@@ -1,4 +1,4 @@
-# https://todotime-stasz2023-stasz2023s-projects.vercel.app/
+# https://todo-list-time.vercel.app/
 https://todo-list-time.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
